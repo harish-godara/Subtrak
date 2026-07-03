@@ -1,0 +1,243 @@
+{
+  "cookies": [
+    {
+      "name": "Path",
+      "value": "/",
+      "domain": ".interakt.ai",
+      "path": "/assets/audio",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Path",
+      "value": "/",
+      "domain": ".interakt.ai",
+      "path": "/assets/css",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Path",
+      "value": "/",
+      "domain": ".interakt.ai",
+      "path": "/locales/en",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Path",
+      "value": "/",
+      "domain": ".interakt.ai",
+      "path": "/kiwi-sdk",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Path",
+      "value": "/",
+      "domain": ".interakt.ai",
+      "path": "/assets",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Path",
+      "value": "/",
+      "domain": ".interakt.ai",
+      "path": "/images",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Path",
+      "value": "/",
+      "domain": ".interakt.ai",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1777534518481.17935587353456222",
+      "domain": ".interakt.ai",
+      "path": "/",
+      "expires": 1785325880,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m",
+      "value": "d8318bb3-ca68-488b-86f0-71eeb367e7c87cbf02",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1812109883.235804,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "d5ece525-a590-4c68-b1c5-4b5a6bb257fd6a0fac",
+      "domain": ".app.interakt.ai",
+      "path": "/",
+      "expires": 1809085883,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_hjSessionUser_2285007",
+      "value": "eyJpZCI6IjJiZThlN2RlLTc4MGQtNTk2ZC1hNjUyLWMwYzM0NTJlNmVmYiIsImNyZWF0ZWQiOjE3Nzc1MzQ1MTg2ODUsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".interakt.ai",
+      "path": "/",
+      "expires": 1809085876,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_2285007",
+      "value": "eyJpZCI6IjQxMzYwZjM3LWJiYTMtNDJmYi05OWY5LWI0NGFlN2Q4NGM3NSIsImMiOjE3Nzc1NDk4NzYzODIsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=",
+      "domain": ".interakt.ai",
+      "path": "/",
+      "expires": 1777551676,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mp_06a4d24605213743b176a7e6d63ba8ff_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%2226cde3e6-058c-4c54-bd95-461424f3b546%22%2C%22%24device_id%22%3A%226244c5a7-bf82-4378-97df-d4ac795b75db%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%2C%22%24user_id%22%3A%2226cde3e6-058c-4c54-bd95-461424f3b546%22%7D",
+      "domain": ".interakt.ai",
+      "path": "/",
+      "expires": 1809085877,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "f49ff22d-d0d9-44f2-9425-111703b0242c1ad02b",
+      "domain": ".app.interakt.ai",
+      "path": "/",
+      "expires": 1777551683,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.interakt.ai",
+      "localStorage": [
+        {
+          "name": "convo_base_url",
+          "value": "https://api.haptikapi.com"
+        },
+        {
+          "name": "hasSeenOnboardingPopup",
+          "value": "true"
+        },
+        {
+          "name": "token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMjZjZGUzZTYtMDU4Yy00YzU0LWJkOTUtNDYxNDI0ZjNiNTQ2IiwiZXhwaXJlX2F0X3V0YyI6IjIwMjYtMDUtMDdUMDc6MzU6MjQuMjYyMzAzKzAwOjAwIiwiY3JlYXRlZF9hdF91dGMiOiIyMDI2LTA0LTMwVDA3OjM1OjI0LjI2MjMyMyswMDowMCIsImp0aSI6Ijk4ZWM3ODQ0LTQ4MzMtNDVlYi1hMjAxLTkzYzg0YThiNmQwMCJ9.kaCbaZJMZUH8-KqGUS-hVjaJK5mQiojr0ahKb2l7h7Q"
+        },
+        {
+          "name": "refiner_ping_again_after",
+          "value": "1777550780"
+        },
+        {
+          "name": "metaVersion",
+          "value": "3.112.297"
+        },
+        {
+          "name": "customerId",
+          "value": "26cde3e6-058c-4c54-bd95-461424f3b546"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "convo_client_id",
+          "value": "9f2685f46e74ee9dcc1eb6367de1df95d94c734a"
+        },
+        {
+          "name": "organizationId",
+          "value": "3fba8a2a-9ced-4a9b-b8d7-16e53d8f348b"
+        },
+        {
+          "name": "refiner_identify_signature",
+          "value": "\"-1526609550\""
+        },
+        {
+          "name": "refiner_first_seen",
+          "value": "1777534695"
+        },
+        {
+          "name": "refiner_ping_on_next_page_visit",
+          "value": "true"
+        },
+        {
+          "name": "__mpq_06a4d24605213743b176a7e6d63ba8ff_ev",
+          "value": "[]"
+        },
+        {
+          "name": "convo_business_id",
+          "value": "8910"
+        },
+        {
+          "name": "subscription_id",
+          "value": "hZRPlE0vX2Ns81XDe9o+k+UcXx5AYXzIkL/r1TlLlghOrv2k2Y0KdMxLCWRuK0qbArH8NBRsWHkYRMfXU4OGJCTgWQDAHO12Q9JhEbANGmV3E+eW01CACwZtK9Ww4Z6irj8AmmIPYp3R7wunBk1izWkZIugpf8NS1b9e+YFqqCE="
+        },
+        {
+          "name": "i18nextLng",
+          "value": "en"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1777549876530"
+        },
+        {
+          "name": "refiner_cookie_uuid",
+          "value": "\"59a6bb53-7b69-b4bf-a49d-4e8f1628358f\""
+        },
+        {
+          "name": "inbox_welcome_done",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMjZjZGUzZTYtMDU4Yy00YzU0LWJkOTUtNDYxNDI0ZjNiNTQ2IiwiZXhwaXJlX2F0X3V0YyI6IjIwMjYtMDUtMDdUMDc6MzU6MjQuMjYyMzAzKzAwOjAwIiwiY3JlYXRlZF9hdF91dGMiOiIyMDI2LTA0LTMwVDA3OjM1OjI0LjI2MjMyMyswMDowMCIsImp0aSI6Ijk4ZWM3ODQ0LTQ4MzMtNDVlYi1hMjAxLTkzYzg0YThiNmQwMCJ9.kaCbaZJMZUH8-KqGUS-hVjaJK5mQiojr0ahKb2l7h7Q"
+        },
+        {
+          "name": "subscription_name",
+          "value": "exSo+mFTkrMioAPC7+L2JSv7RCcgUjuGU8wI3HFIRod2VkmD2qLNO2PbSXFx9wvHzpeklfVlPFL36yoScKPBU9jwk4v0DU6cX5FP0TFj5P46Oj8vYKrh6mOc4lVHTwg5/OEZ02nJX53FQvZsoSZZNUONgSRL3cmnyHzUqHSpjnM="
+        },
+        {
+          "name": "__mpq_06a4d24605213743b176a7e6d63ba8ff_pp",
+          "value": "[]"
+        },
+        {
+          "name": "scamWarningShown",
+          "value": "1"
+        },
+        {
+          "name": "translateLanguage",
+          "value": "{\"label\":\"English\",\"value\":\"en\"}"
+        }
+      ]
+    }
+  ]
+}
